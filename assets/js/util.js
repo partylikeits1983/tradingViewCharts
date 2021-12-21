@@ -270,7 +270,7 @@
 				$body.on('click touchend', function(event) {
 					$this._hide(event);
 				});
-
+ 
 			// Event: Toggle.
 				$body.on('click', 'a[href="#' + id + '"]', function(event) {
 
