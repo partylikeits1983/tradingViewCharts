@@ -145,7 +145,7 @@ function myClick() {
       syncToInterval();
     }, 1000);
 }
-
+ 
 myClick();
 
 function syncToInterval(interval) {
