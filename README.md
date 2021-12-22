@@ -14,9 +14,6 @@ Also the price feed is not live, as this would require a Binance API key which r
 
 
 
-if you like this repo, you can buy me a coffee at this eth address: 
-
-0x5c13Af2fbA82981994b1B3D5C20F7E2c971f28D3
 
 
 
